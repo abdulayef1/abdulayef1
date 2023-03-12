@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-- 👨‍💻 All of my projects are available at https://github.com/abdulayef1?tab=repositories](https://github.com/abdulayef1?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/abdulayef1?tab=repositories
 
 - 📫 How to reach me **mhmmdabdullayev6@gmail.com**
 
