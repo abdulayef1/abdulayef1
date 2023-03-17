@@ -7,17 +7,6 @@ on:
 
 jobs:
 
-  summary-cards:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-
-      - name: Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
           
   snake-animation:
     runs-on: ubuntu-latest
